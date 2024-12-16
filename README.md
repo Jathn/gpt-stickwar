@@ -13,11 +13,11 @@ The outline I had:
 
 After some refactoring:
  - An enemy chases you
- - much cleaner code without 5000 if statements
+ - much cleaner code without as much verbose code
 
 Summary:
 
-It is really easy to get started with new tooling, if you have a basic computer literacy (for safety as well) and a generative model. 
+It is really easy to get started with new tooling if you have a basic computer literacy (for safety as well) and a generative model. 
 You can get all these "base configs" set up really really fast, and focus on the logic until configurations become relevant again.
 
 It is really fun to try out new things, since you can generativelly produce a "sandbox" in pretty much any language or framework.
