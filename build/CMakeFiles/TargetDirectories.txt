@@ -1,3 +1,0 @@
-/home/jathn/dev/projects/gpt-stickwar/build/CMakeFiles/StickWar.dir
-/home/jathn/dev/projects/gpt-stickwar/build/CMakeFiles/edit_cache.dir
-/home/jathn/dev/projects/gpt-stickwar/build/CMakeFiles/rebuild_cache.dir
