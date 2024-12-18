@@ -2,23 +2,24 @@
 #define GAME_H
 
 #include <SFML/Graphics.hpp>
+
 #include "Stickman.h"
 
 class Game {
-public:
-    Game();
-    void run();
+       public:
+        Game();
+        void run();
 
-private:
-    void processEvents();
-    void update();
-    void render();
+       private:
+        void processEvents();
+        void update();
+        void render();
 
-    sf::RenderWindow mWindow;
-    sf::RectangleShape mBackground;
+        sf::RenderWindow mWindow;
+        sf::RectangleShape mBackground;
 
-    Stickman mPlayer; // The player's stickman
-    Stickman mEnemy;
+        Stickman mPlayer;
+        Stickman mEnemy;
 };
 
-#endif // GAME_H
+#endif  // GAME_H
